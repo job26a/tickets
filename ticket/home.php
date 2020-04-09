@@ -50,14 +50,15 @@
     <div id="submenu">
         <ul>
             <li>
-                <a href="inloggen.php"> inloggen</a>
+                <a href="inlog_opties.php">bestellen</a>
+            </li>
+            <li>
+                <a href="inlog_opties.php"> inloggen</a>
             </li>
             <li>
                 <a href="ticket_info.php">info tickets</a>
             </li>
-            <li>
-                <a href="bestellen.php">bestellen</a>
-            </li>
+
         </ul>
     </div>
     <div id="footer">
